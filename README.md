@@ -260,15 +260,6 @@ akhnaton-trading/
 
 ---
 
-## 📞 Contact & Support
-
-| | |
-|---|---|
-| 🌐 **Website** | www.akhnaton-trading.com |
-| 📧 **General Inquiries** | info@akhnaton-trading.com |
-| 🛠️ **IT Support** | it-support@akhnaton-trading.com |
-| 📦 **Supply Chain** | scm@akhnaton-trading.com |
-| 💼 **HR** | hr@akhnaton-trading.com |
 
 ---
 
@@ -278,5 +269,3 @@ akhnaton-trading/
 Internal documentation — proprietary and confidential.
 
 ---
-
-*Built with vision. Driven by technology. Inspired by legacy.* 🏛️
